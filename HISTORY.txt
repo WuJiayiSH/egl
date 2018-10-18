@@ -1,0 +1,15 @@
+=======================HISTORY=======================
+2007 Aug 10		egl 0.0.3
+				code optimized and accelerated.
+				glCullFace() added.
+				bug fixed.
+
+2007 Aug 7		egl 0.0.2
+				Texturing and depth testing rewrited.
+				Nokia old 40 now can run the sample.
+
+2007 Jan 11		egl 0.0.1 with sample code has been released.
+
+=======================KNOWN ISSUES=======================
+
+Matrix could be destoryed after traformation, for example: rotation two times.
