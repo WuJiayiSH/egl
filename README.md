@@ -1,6 +1,6 @@
 EGL 3D Graphics API
 
-Copyright (C) 2007 Jiayi Wu 
+2007 Jiayi Wu 
 
 INTRODUCTION
 ============
